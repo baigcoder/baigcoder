@@ -1,34 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Hassan%20Baig&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20%7C%20MERN%20Expert%20%7C%20DevOps%20Automation&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Muhammad%20Hassan%20Baig&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20•%20MERN%20Expert%20•%20DevOps%20Enthusiast&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Building+Scalable+Web+Applications;Engineering+AI-Powered+Products;Backend+%7C+Cloud+%7C+Automation+%7C+DevOps" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+AI+Engineer;⚡+Building+Scalable+Web+Applications;🤖+AI+Automation+%7C+LLMs+%7C+Agents;☁️+Cloud+Native+Backend+Developer;💡+Always+Learning+New+Technologies" />
 
-<br>
+<br><br>
 
-<p>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/baigcoder">
+<img src="https://img.shields.io/github/followers/baigcoder?label=Followers&logo=github&style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/baigcoder">
+<img src="https://img.shields.io/github/stars/baigcoder?affiliations=OWNER&style=for-the-badge"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+<img src="https://komarev.com/ghpvc/?username=baigcoder&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -36,21 +24,82 @@
 
 # 👋 Hi, I'm Muhammad Hassan Baig
 
-## 🚀 Full-Stack AI Engineer | MERN & Next.js Expert | DevOps Automation Enthusiast
+### 💻 Full-Stack AI Engineer | MERN & Next.js Expert | DevOps Automation Enthusiast
 
-I specialize in designing **high-performance, scalable, AI-powered web applications** with modern backend architectures, cloud-native infrastructure, and intelligent automation.
+I build **modern, scalable, AI-powered web applications** with a strong focus on backend architecture, distributed systems, automation, and cloud-native development.
 
-I enjoy solving complex engineering problems using distributed systems, machine learning, DevOps, and scalable API architectures.
+I'm passionate about solving real-world problems using **Artificial Intelligence**, **Large Language Models**, and **high-performance backend systems**.
 
 ---
 
-# 💻 Core Technologies
+## 🚀 What I Do
 
-<p align="center">
+- 🤖 AI-Powered Applications
+- 🌐 Full-Stack Web Development
+- ⚙ Backend Architecture
+- ☁ Cloud-Native Development
+- 🐳 Docker & Kubernetes
+- 🔥 REST APIs
+- 🚀 DevOps Automation
+- 📊 System Design
+- ⚡ Performance Optimization
 
-Node.js • Express.js • React.js • Next.js • TypeScript • MongoDB • PostgreSQL • Redis • Docker • Kubernetes • Linux • AI • Automation
+---
 
-</p>
+# 🌟 About Me
+
+### 🔭 Currently Building
+
+- 🛡️ AI-Powered Social Media Platform (**TrueVibe**)
+- 🛒 Distributed Playwright Scraper
+- 🤖 AI Automation Workflows
+- 🌐 Enterprise Backend Systems
+
+---
+
+### 🌱 Currently Learning
+
+- LangGraph
+- CrewAI
+- MCP Servers
+- Hugging Face
+- Unsloth
+- Kubernetes
+- AWS
+- Terraform
+- Event-Driven Architecture
+- RAG Systems
+
+---
+
+### 🤝 Open To Collaborate On
+
+- SaaS Platforms
+- AI Products
+- Open Source Projects
+- Backend Engineering
+- Cloud Infrastructure
+- AI Agents
+
+---
+
+### 💬 Ask Me About
+
+```text
+Node.js
+Express.js
+Next.js
+React.js
+TypeScript
+MongoDB
+Redis
+Docker
+Linux
+REST APIs
+Automation
+System Design
+Artificial Intelligence
+```
 
 ---
 
@@ -58,84 +107,34 @@ Node.js • Express.js • React.js • Next.js • TypeScript • MongoDB • P
 
 ## 🛡️ TrueVibe — AI-Driven Trust-First Social Media Platform
 
-An enterprise-grade social media ecosystem engineered to preserve **digital authenticity**, eliminate misinformation, and provide scalable real-time communication powered by Artificial Intelligence.
+A modern **AI-first social media ecosystem** engineered to preserve digital authenticity, detect manipulated media, and provide secure, scalable real-time communication.
 
 ### ✨ Key Features
 
-- 🤖 AI-powered Deepfake Detection
-- 🧠 Intelligent Media Verification
+- 🤖 AI-Powered Deepfake Detection
+- 🧠 Intelligent Content Verification
 - ⚡ Redis Session Management
-- 🔐 Secure JWT Authentication
-- 🌍 REST API Architecture
-- 📡 Real-time Communication
+- 🔐 JWT Authentication
+- 🌍 RESTful API Architecture
+- 📡 Real-Time Communication
 - 📊 Analytics Dashboard
-- ☁ Docker Deployment
-- 🚀 Kubernetes Ready
-- 📈 Horizontal Scalability
+- 🐳 Docker Deployment
+- ☁ Kubernetes Ready
+- 🚀 Horizontal Scaling
 
-### 🔗 Project
-
-```text
-Repository:
-https://github.com/YOUR_USERNAME/truevibe
-```
+### 🛠 Tech Used
 
 ```text
-Live Demo:
-Coming Soon
+Next.js
+React.js
+Node.js
+Express.js
+MongoDB
+Redis
+Docker
+Kubernetes
+TypeScript
 ```
-
----
-
-# 🌱 About Me
-
-## 🔭 Currently Working On
-
-- 🚀 High-performance E-Commerce Scraper using Playwright
-- 🤖 AI-powered Automation Workflows
-- 🌐 Enterprise Backend Systems
-- ⚙ Distributed APIs
-
----
-
-## 🌟 Exploring
-
-- Local LLMs
-- Hugging Face
-- Unsloth
-- LangChain
-- LangGraph
-- CrewAI
-- MCP Servers
-- AI Agents
-- RAG Systems
-
----
-
-## 🤝 Looking to Collaborate
-
-- SaaS Applications
-- AI Products
-- Automation Platforms
-- Open Source
-- Cloud Native Systems
-
----
-
-## 💬 Ask Me About
-
-- MERN Stack
-- Next.js
-- Backend Engineering
-- Docker
-- Kubernetes
-- Redis
-- CI/CD
-- Linux
-- Shell Scripting
-- AI Integration
-- REST APIs
-- System Design
 
 ---
 
@@ -143,152 +142,114 @@ Coming Soon
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/baigcoder">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://hassan-baigo-portfolio.vercel.app/?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Engineering Philosophy
+# 💡 Engineering Philosophy
 
-> **"Build software that scales, automate repetitive work, and use AI to solve meaningful real-world problems."**
-
----
-
-# 🧰 Tech Stack
-
-<table>
-
-<tr>
-
-<th align="center">🌐 Frontend</th>
-<th align="center">⚙ Backend</th>
-<th align="center">🗄 Database</th>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<table>
-
-<tr>
-
-<th align="center">🤖 AI / ML</th>
-<th align="center">☁ DevOps</th>
-<th align="center">🛠 Tools</th>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<br>
-
-Hugging Face • LangChain • LangGraph • CrewAI • Ollama • Unsloth
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,bash" />
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,github" />
-
-</td>
-
-</tr>
-
-</table>
+> **"Build software that scales, automate repetitive work, and leverage AI to create impactful solutions."**
 
 ---
 
-# 💻 Programming Languages
+## ⚡ Fun Facts
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,bash" />
-
-</p>
-
----
-
-# ⚡ Development Environment
-
-| Category | Technologies |
-|-----------|--------------|
-| IDE | VS Code |
-| Version Control | Git + GitHub |
-| Containers | Docker |
-| Orchestration | Kubernetes |
-| API Testing | Postman |
-| Operating System | Linux & Windows |
-| Package Managers | npm, pnpm |
-| Runtime | Node.js |
+- 💙 Open Source Enthusiast
+- 🤖 AI Explorer
+- ☁ Cloud Native Learner
+- 🐧 Linux User
+- 📚 Lifelong Learner
+- 🚀 Love Building Real Products
 
 ---
 
-# 📊 GitHub Statistics
+# 🛠 Tech Stack & Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+## 💻 Frontend Development
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux"/>
+
+---
+
+## ⚙ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+---
+
+## 🗄 Databases & Cache
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
+<br>
+
+**LLMs • Hugging Face • LangChain • LangGraph • CrewAI • Ollama • Unsloth • OpenAI API**
+
+---
+
+## ☁ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,bash"/>
+
+---
+
+## 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
 
 </div>
 
 ---
 
-# 💻 Most Used Languages
+# 📊 GitHub Dashboard
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baigcoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=baigcoder&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baigcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baigcoder&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -298,87 +259,102 @@ Hugging Face • LangChain • LangGraph • CrewAI • Ollama • Unsloth
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=baigcoder&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🚀 Current Focus
 
-<div align="center">
+<table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<tr>
 
-</div>
+<td width="50%">
 
----
+### 🔭 Building
 
-# 🎯 2026 Roadmap
+- 🤖 AI-Powered Applications
+- 🛒 Enterprise E-Commerce Scraper
+- ⚡ Backend APIs
+- 🌐 Full Stack SaaS Products
+- ☁ Cloud Native Applications
 
-| Goal | Status |
-|------|:------:|
-| Advanced Next.js | ✅ |
-| Enterprise Backend | ✅ |
-| Docker | ✅ |
-| Redis | ✅ |
-| Kubernetes | 🟡 |
-| AWS | 🟡 |
-| Terraform | 🔜 |
-| LangGraph | 🟡 |
-| CrewAI | 🟡 |
-| MCP Servers | 🔜 |
-| AI Agents | 🟢 |
-| RAG Applications | 🟢 |
-| Multi-Agent Systems | 🔜 |
+</td>
 
----
+<td width="50%">
 
-# 📚 Currently Learning
+### 🌱 Learning
 
-- 🤖 AI Agents
-- 🧠 LangGraph
-- ⚡ CrewAI
-- 🏗 MCP Servers
-- ☁ AWS Cloud
-- ⚙ Kubernetes
-- 🔥 Distributed Systems
-- 📡 Event Driven Architecture
-- 🚀 Microservices
-- 🧩 Vector Databases
+- Kubernetes
+- AWS
+- MCP Servers
+- LangGraph
+- CrewAI
+- AI Agents
+- Vector Databases
+- System Design
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🚀 2026 Objectives
+# 🧠 Expertise
 
-- Build Production AI SaaS Products
-- Deploy Cloud Native Applications
-- Master Kubernetes
-- Become an AI Infrastructure Engineer
-- Contribute to Open Source
-- Publish Technical Blogs
-- Build High Scale Backend Systems
-- Create Multi-Agent AI Platforms
-- Learn Advanced System Design
-
----
-
-# ⚙ Productivity Stack
-
-| Category | Tools |
-|-----------|-------|
-| Editor | VS Code |
-| AI | ChatGPT, Claude, Gemini |
-| Version Control | GitHub |
-| Deployment | Docker |
-| API | Postman |
-| Design | Figma |
-| Terminal | Windows Terminal + Bash |
-| Browser | Chrome |
+| Domain | Experience |
+|---------|------------|
+| 🌐 Frontend | React.js, Next.js, TypeScript |
+| ⚙ Backend | Node.js, Express.js |
+| 🗄 Database | MongoDB, PostgreSQL, Redis |
+| 🤖 AI | LLMs, Hugging Face, AI APIs |
+| ☁ DevOps | Docker, Kubernetes, GitHub Actions |
+| 🔐 Authentication | JWT, OAuth |
+| 🚀 Deployment | Docker, Linux, CI/CD |
+| ⚡ Automation | Shell, Playwright, AI Workflows |
 
 ---
 
-# 📌 Favorite Technologies
+# 📅 2026 Learning Roadmap
+
+| Technology | Progress |
+|------------|:--------:|
+| JavaScript | ██████████ 100% |
+| TypeScript | ██████████ 100% |
+| React.js | ██████████ 100% |
+| Next.js | █████████░ 90% |
+| Node.js | ██████████ 100% |
+| Express.js | ██████████ 100% |
+| MongoDB | ██████████ 100% |
+| Docker | █████████░ 90% |
+| Redis | ████████░░ 80% |
+| Kubernetes | ██████░░░░ 60% |
+| AWS | █████░░░░░ 50% |
+| LangGraph | █████░░░░░ 50% |
+| CrewAI | █████░░░░░ 50% |
+| MCP Servers | ████░░░░░░ 40% |
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready AI SaaS products
+- 🤖 Master AI Agents & Multi-Agent Systems
+- ☁ Become AWS Certified
+- ⚙ Master Kubernetes
+- 📦 Build scalable microservices
+- 🌍 Contribute to Open Source
+- 📝 Write technical blogs
+- 🎤 Share knowledge with the developer community
+- 💼 Land a Senior Full-Stack AI Engineer role
+
+---
+
+# ⚡ Favorite Technologies
 
 <div align="center">
 
@@ -388,101 +364,151 @@ Hugging Face • LangChain • LangGraph • CrewAI • Ollama • Unsloth
 
 ---
 
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/baigcoder/baigcoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
 ---
 
-# 📊 Profile Metrics
+# 💼 Featured Projects
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6" />
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github" />
-
-<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge" />
+| 🚀 Project | Description | Tech Stack |
+|------------|-------------|------------|
+| 🛡️ **TrueVibe** | AI-powered Trust-First Social Media Platform | Next.js • Node.js • MongoDB • Redis • AI |
+| 🤖 **AI Resume Screening** | Resume ranking using NLP & Machine Learning | Python • Scikit-learn • NLP |
+| 💼 **AI Job Portal** | Intelligent hiring platform with resume analysis | MERN • AI • MongoDB |
+| 🛒 **Playwright Scraper** | High-performance distributed web scraping system | Node.js • Playwright • Redis |
+| 🌐 **Developer Portfolio** | Modern portfolio with AI integrations | Next.js • TypeScript |
 
 </div>
 
 ---
 
-# 🏅 Certifications & Learning
-
-### Cloud
-
-- ☁ AWS Cloud Practitioner *(In Progress)*
-- ☁ Kubernetes *(Learning)*
-- ☁ Docker *(Advanced)*
-
-### AI
-
-- 🤖 Hugging Face
-- 🧠 LangChain
-- ⚡ LangGraph
-- 🚀 CrewAI
-- 🧩 MCP Servers
-
-### Backend
-
-- Node.js
-- Express.js
-- Next.js
-- Redis
-- PostgreSQL
-
----
-
-# 💼 Featured Repositories
-
-| Project | Description |
-|---------|-------------|
-| 🛡 TrueVibe | AI Trust-First Social Media Platform |
-| 🤖 AI Resume Screening | Resume Ranking using NLP |
-| 💼 AI Job Portal | Intelligent Hiring Platform |
-| 🛒 Playwright Scraper | Distributed Web Scraper |
-| ⚙ DevOps Scripts | Linux & Automation |
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build Production AI SaaS
-- ✅ Master Kubernetes
-- ✅ Learn AWS
-- ✅ Build AI Agents
-- ✅ Master LangGraph
-- ✅ Publish Open Source Libraries
-- ✅ Contribute to OSS
-- ✅ Build Microservices
-- ✅ Learn Distributed Systems
-
----
-
-# ❤️ Open Source
-
-I enjoy building scalable software and contributing to open-source projects.
-
-If one of my repositories helped you,
-
-⭐ **consider giving it a Star.**
-
-It motivates me to keep building.
-
----
-
-# 🤝 Let's Connect
+# 🏅 Certifications & Learning Journey
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+| Technology | Status |
+|------------|:------:|
+| JavaScript | ✅ Mastered |
+| TypeScript | ✅ Mastered |
+| React.js | ✅ Mastered |
+| Next.js | ✅ Advanced |
+| Node.js | ✅ Advanced |
+| Express.js | ✅ Advanced |
+| MongoDB | ✅ Advanced |
+| Docker | 🟢 Advanced |
+| Redis | 🟢 Advanced |
+| Kubernetes | 🟡 Learning |
+| AWS | 🟡 Learning |
+| LangGraph | 🟡 Learning |
+| CrewAI | 🟡 Learning |
+| MCP Servers | 🟡 Learning |
+| AI Agents | 🟢 Building |
+
+</div>
+
+---
+
+# 🌍 Open Source Contributions
+
+I enjoy contributing to projects that improve developer productivity, AI engineering, backend infrastructure, and scalable web applications.
+
+Areas of interest:
+
+- 🤖 Artificial Intelligence
+- ⚡ Automation
+- 🌐 Full-Stack Development
+- ☁ Cloud Computing
+- 🔥 Backend Systems
+- 📦 Open Source
+- 🧠 LLM Applications
+
+---
+
+# 📈 Development Philosophy
+
+```text
+Think ➜ Design ➜ Build ➜ Test ➜ Deploy ➜ Monitor ➜ Improve
+```
+
+I believe in writing software that is:
+
+- Clean
+- Scalable
+- Maintainable
+- Secure
+- High Performance
+- Production Ready
+
+---
+
+# ⚙️ Development Environment
+
+```text
+OS          : Windows 11 + Linux
+
+Editor      : VS Code
+
+Terminal    : Windows Terminal + Bash
+
+Runtime     : Node.js
+
+Database    : MongoDB + PostgreSQL + Redis
+
+Cloud       : AWS (Learning)
+
+Containers  : Docker + Kubernetes
+
+AI          : OpenAI • Hugging Face • Ollama
+
+Version Ctrl: Git + GitHub
+```
+
+---
+
+# 📊 Weekly Coding Activity
+
+```text
+JavaScript      ████████████████░   40%
+
+TypeScript      ██████████████░░░   35%
+
+Node.js         ███████████░░░░░░   15%
+
+Python          ████░░░░░░░░░░░░░    6%
+
+Shell           ██░░░░░░░░░░░░░░░    4%
+```
+
+---
+
+# ❤️ Support My Work
+
+If you enjoy my projects or find them useful:
+
+⭐ Star my repositories
+
+🍴 Fork interesting projects
+
+💬 Share feedback
+
+🤝 Collaborate on open source
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/baigcoder">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -502,16 +528,20 @@ It motivates me to keep building.
 
 ---
 
-# 💬 Favorite Quote
+# 💬 Quote I Live By
 
-> *"First solve the problem. Then write clean, scalable, and maintainable code."*
+> **"Great software isn't just written—it is engineered with purpose, refined through iteration, and built to solve real problems."**
 
 ---
 
 <div align="center">
 
-## ⚡ Thanks for Visiting My Profile
+## 🚀 Thanks for Visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Build+Something+Amazing!;See+You+Again!+👋" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+💙;Keep+Learning+🚀;Build+Something+Amazing!+⭐" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
