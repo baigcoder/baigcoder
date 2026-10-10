@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 700" width="720" height="700" role="img" aria-labelledby="t d">
+  <title id="t">TrueVibe architecture</title>
+  <desc id="d">Three stacked layers connected by lines. A React 19 and Vite client. A Node.js and Express API using MongoDB, Redis with BullMQ and Socket.IO. A separate Python FastAPI AI service using PyTorch, transformers and OpenCV, plus an evidence-fusion step that exists only on the dev branch.</desc>
+  <defs>
+    <pattern id="g" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1E2940" stroke-width="1" opacity=".5"/></pattern>
+    <style>
+      .sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+      .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+    </style>
+  </defs>
+  <rect width="720" height="700" rx="16" fill="#080B12"/>
+  <rect width="720" height="700" rx="16" fill="url(#g)"/>
+  <rect x=".5" y=".5" width="719" height="699" rx="15.5" fill="none" stroke="#1E2940"/>
+  <rect x="40" y="40" width="640" height="138" rx="12" fill="#101725" stroke="#55D6FF" stroke-opacity=".6"/>
+  <rect x="40" y="52" width="4" height="114" rx="2" fill="#55D6FF"/>
+  <text x="68" y="72" class="mono" font-size="13" letter-spacing="2" fill="#55D6FF">01 · CLIENT</text>
+  <text x="68" y="106" class="sans" font-size="24" font-weight="700" fill="#E8EEF8">React 19 + Vite</text>
+  <text x="68" y="138" class="sans" font-size="17" fill="#97A6BC">TypeScript · TanStack Router and Query</text>
+  <text x="68" y="164" class="sans" font-size="17" fill="#97A6BC">Tailwind CSS · Framer Motion · Socket.IO client</text>
+  <rect x="40" y="222" width="640" height="160" rx="12" fill="#101725" stroke="#55D6FF" stroke-opacity=".6"/>
+  <rect x="40" y="234" width="4" height="136" rx="2" fill="#55D6FF"/>
+  <text x="68" y="254" class="mono" font-size="13" letter-spacing="2" fill="#55D6FF">02 · API</text>
+  <text x="68" y="288" class="sans" font-size="24" font-weight="700" fill="#E8EEF8">Node.js + Express</text>
+  <text x="68" y="320" class="sans" font-size="17" fill="#97A6BC">TypeScript · MongoDB (Mongoose) · Zod validation</text>
+  <text x="68" y="346" class="sans" font-size="17" fill="#97A6BC">Redis + BullMQ jobs · Socket.IO · rate limiting</text>
+  <rect x="40" y="426" width="640" height="208" rx="12" fill="#101725" stroke="#8775FF" stroke-opacity=".6"/>
+  <rect x="40" y="438" width="4" height="184" rx="2" fill="#8775FF"/>
+  <text x="68" y="458" class="mono" font-size="13" letter-spacing="2" fill="#8775FF">03 · AI SERVICE</text>
+  <text x="68" y="492" class="sans" font-size="24" font-weight="700" fill="#E8EEF8">Python + FastAPI</text>
+  <text x="68" y="524" class="sans" font-size="17" fill="#97A6BC">PyTorch + transformers (CPU) · OpenCV signals</text>
+  <text x="68" y="550" class="sans" font-size="17" fill="#97A6BC">Image and video analysis · PDF report</text>
+  <rect x="68" y="572" width="584" height="34" rx="8" fill="#080B12" stroke="#8775FF" stroke-dasharray="4 4"/>
+  <text x="84" y="594" class="sans" font-size="16" fill="#E8EEF8">Evidence fusion: fake verdict needs corroboration</text>
+  <text x="636" y="594" text-anchor="end" class="mono" font-size="12" letter-spacing="1.5" fill="#8775FF">DEV BRANCH ONLY</text>
+  <path d="M360 178V222" stroke="#55D6FF" stroke-width="1.6"/><circle cx="360" cy="178" r="4" fill="#55D6FF"/><circle cx="360" cy="222" r="4" fill="#55D6FF"/>
+  <path d="M360 382V426" stroke="#55D6FF" stroke-width="1.6"/><circle cx="360" cy="382" r="4" fill="#55D6FF"/><circle cx="360" cy="426" r="4" fill="#55D6FF"/>
+  <text x="40" y="664" class="mono" font-size="12" letter-spacing="1" fill="#97A6BC">Untagged items exist on both main and dev.</text>
+  <text x="40" y="684" class="mono" font-size="12" letter-spacing="1" fill="#97A6BC">Lines show relationships, not protocols.</text>
+</svg>

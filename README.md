@@ -1,547 +1,103 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Muhammad%20Hassan%20Baig&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20AI%20Engineer%20•%20MERN%20Expert%20•%20DevOps%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+<h1><img src="assets/profile-hero.svg" alt="Muhammad Hassan Baig, Full-Stack AI Engineer. Engineering AI-powered products, reliable backend systems and intelligent developer tools." width="100%"></h1>
 
-<br>
+**Muhammad Hassan Baig** · Full-Stack AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+AI+Engineer;⚡+Building+Scalable+Web+Applications;🤖+AI+Automation+%7C+LLMs+%7C+Agents;☁️+Cloud+Native+Backend+Developer;💡+Always+Learning+New+Technologies" />
+Engineering AI-powered products, reliable backend systems and intelligent developer tools.
 
-<br><br>
-
-<a href="https://github.com/baigcoder">
-<img src="https://img.shields.io/github/followers/baigcoder?label=Followers&logo=github&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/baigcoder">
-<img src="https://img.shields.io/github/stars/baigcoder?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=baigcoder&style=for-the-badge&color=blue"/>
+[Portfolio](https://hassan-baigo-portfolio.vercel.app/) · [TrueVibe](#truevibe-a-case-study) · [Wakeel](https://github.com/baigcoder/lawyer-agency) · [HIRE.OS](https://github.com/baigcoder/hire-os) · [Repositories](https://github.com/baigcoder?tab=repositories)
 
 </div>
 
----
+I work across the stack: React and Next.js interfaces, Node.js and TypeScript backends, and the data, queue and AI layers behind them. What interests me most is the unglamorous engineering that makes AI features trustworthy: validated model output, idempotent queues, tenant isolation, and graceful degradation when a provider fails.
 
-# 👋 Hi, I'm Muhammad Hassan Baig
+## Selected engineering work
 
-### 💻 Full-Stack AI Engineer | MERN & Next.js Expert | DevOps Automation Enthusiast
-
-I build **modern, scalable, AI-powered web applications** with a strong focus on backend architecture, distributed systems, automation, and cloud-native development.
-
-I'm passionate about solving real-world problems using **Artificial Intelligence**, **Large Language Models**, and **high-performance backend systems**.
-
----
-
-## 🚀 What I Do
-
-- 🤖 AI-Powered Applications
-- 🌐 Full-Stack Web Development
-- ⚙ Backend Architecture
-- ☁ Cloud-Native Development
-- 🐳 Docker & Kubernetes
-- 🔥 REST APIs
-- 🚀 DevOps Automation
-- 📊 System Design
-- ⚡ Performance Optimization
-
----
-
-# 🌟 About Me
-
-### 🔭 Currently Building
-
-- 🛡️ AI-Powered Social Media Platform (**TrueVibe**)
-- 🛒 Distributed Playwright Scraper
-- 🤖 AI Automation Workflows
-- 🌐 Enterprise Backend Systems
-
----
-
-### 🌱 Currently Learning
-
-- LangGraph
-- CrewAI
-- MCP Servers
-- Hugging Face
-- Unsloth
-- Kubernetes
-- AWS
-- Terraform
-- Event-Driven Architecture
-- RAG Systems
-
----
-
-### 🤝 Open To Collaborate On
-
-- SaaS Platforms
-- AI Products
-- Open Source Projects
-- Backend Engineering
-- Cloud Infrastructure
-- AI Agents
-
----
-
-### 💬 Ask Me About
-
-```text
-Node.js
-Express.js
-Next.js
-React.js
-TypeScript
-MongoDB
-Redis
-Docker
-Linux
-REST APIs
-Automation
-System Design
-Artificial Intelligence
-```
-
----
-
-# 🚀 Featured Project
-
-## 🛡️ TrueVibe — AI-Driven Trust-First Social Media Platform
-
-A modern **AI-first social media ecosystem** engineered to preserve digital authenticity, detect manipulated media, and provide secure, scalable real-time communication.
-
-### ✨ Key Features
-
-- 🤖 AI-Powered Deepfake Detection
-- 🧠 Intelligent Content Verification
-- ⚡ Redis Session Management
-- 🔐 JWT Authentication
-- 🌍 RESTful API Architecture
-- 📡 Real-Time Communication
-- 📊 Analytics Dashboard
-- 🐳 Docker Deployment
-- ☁ Kubernetes Ready
-- 🚀 Horizontal Scaling
-
-### 🛠 Tech Used
-
-```text
-Next.js
-React.js
-Node.js
-Express.js
-MongoDB
-Redis
-Docker
-Kubernetes
-TypeScript
-```
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/baigcoder">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://hassan-baigo-portfolio.vercel.app/?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# 💡 Engineering Philosophy
-
-> **"Build software that scales, automate repetitive work, and leverage AI to create impactful solutions."**
-
----
-
-## ⚡ Fun Facts
-
-- 💙 Open Source Enthusiast
-- 🤖 AI Explorer
-- ☁ Cloud Native Learner
-- 🐧 Linux User
-- 📚 Lifelong Learner
-- 🚀 Love Building Real Products
-
----
-
-# 🛠 Tech Stack & Tools
+### TrueVibe: a case study
 
 <div align="center">
-
-## 💻 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux"/>
-
----
-
-## ⚙ Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
----
-
-## 🗄 Databases & Cache
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-
----
-
-## 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-
-<br>
-
-**LLMs • Hugging Face • LangChain • LangGraph • CrewAI • Ollama • Unsloth • OpenAI API**
-
----
-
-## ☁ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,bash"/>
-
----
-
-## 🔧 Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
-
+<a href="https://github.com/baigcoder/TrueVibe"><img src="assets/truevibe-architecture.svg" alt="TrueVibe architecture: a React and Vite client, a Node.js and Express API with MongoDB, Redis, BullMQ and Socket.IO, and a separate Python FastAPI AI service. An evidence-fusion step exists on the dev branch only." width="640"></a>
 </div>
 
----
+**Problem.** On social platforms, manipulated media is easy to post and hard to judge. TrueVibe is built around one question: can you trust what you're looking at?
 
-# 📊 GitHub Dashboard
+**Approach.** Uploaded media goes to a separate Python service that produces a trust verdict, so the interface can show authenticity signals instead of leaving users to guess. Real-time features run on the Node API.
+
+**Engineering contribution.** On the `dev` branch, an evidence-fusion step only supports a "fake" verdict when independent forensic signals (FFT, eye, colour and noise, edge, mouth, temporal) corroborate the primary model's score. The aim is that no single over-confident model decides alone. That module is **not on `main`**.
+
+**Stack, verified in the repository.**
+- *Client:* React 19, Vite, TypeScript, TanStack Router and Query, Tailwind CSS, Framer Motion.
+- *API:* Node.js, Express, MongoDB, Redis with BullMQ, Socket.IO, Zod, Helmet.
+- *AI service:* FastAPI, PyTorch and `transformers` (CPU build), OpenCV, image and video analysis, PDF report.
+- *Delivery:* Docker Compose, GitHub Actions CI, Vercel and Railway configuration.
+
+**Status, stated plainly.** I built this myself. I haven't published accuracy numbers or benchmarks, and the repository has no Kubernetes manifests. I don't claim production traffic, horizontal scaling or security guarantees. The live-app link comes from the repository's metadata.
+
+[Source](https://github.com/baigcoder/TrueVibe) · [Live app](https://true-vibe.vercel.app/) · [Changelog](https://github.com/baigcoder/TrueVibe/blob/HEAD/CHANGELOG.md)
+
+### Wakeel
+
+**Problem.** Pakistani law firms run intake, fees and documents through WhatsApp, and partners re-read long chats.<br>
+**Approach.** A multi-tenant WhatsApp front desk where an AI handles intake, scheduling and document requests, then hands a structured brief to a lawyer. It never gives legal advice, and a web dashboard serves the staff.<br>
+**Contribution.** PostgreSQL row-level security with `FORCE`; ack-fast webhooks with idempotent queue consumers; per-conversation locking; a deterministic fallback for every model call; and Urdu and Roman Urdu handling for voice replies.<br>
+**Stack.** TypeScript, NestJS, Next.js, PostgreSQL with pgvector, Redis, BullMQ, Prisma.<br>
+**Status.** Phases 1–15 are in the repository. Its README lists hosting, backups and alerting as next steps, so I don't present it as deployed.
+
+[Source](https://github.com/baigcoder/lawyer-agency)
+
+### HIRE.OS
+
+**Problem.** Hiring spans resume screening, assessment and interviewing, usually across separate tools.<br>
+**Approach.** One platform with a resume analyser, AI-generated assessments with proctoring signals, WebRTC interviews, and recruiter and candidate dashboards.<br>
+**Contribution.** Per-feature model selection with a fallback model, and live dashboards on Supabase Realtime.<br>
+**Stack.** React, Node.js, Express, MongoDB, Redis, Supabase.
+
+[Source](https://github.com/baigcoder/hire-os) · [Demo](https://hire-os.vercel.app) (link taken from the project README)
+
+### Also built
+
+- **[Rivulet](https://github.com/baigcoder/rivulet):** a media library and BitTorrent player for desktop and Android TV with an embedded mpv, an in-process torrent engine and a TV-remote-first UI. TypeScript. [Site](https://rivulet-beige.vercel.app)
+- **[Brewns](https://github.com/baigcoder/brewns):** a specialty coffee house site with Next.js 16, three.js product views and a thermal-receipt ordering flow. [Live](https://brewns-chi.vercel.app)
+
+## Technical stack
+
+Used in my projects:
+
+| Area | Tools |
+| --- | --- |
+| Languages and frontend | TypeScript, JavaScript, Python, SQL; React, Next.js, Vite, Tailwind CSS, TanStack Query and Router, Framer Motion, three.js |
+| Backend and APIs | Node.js, Express, NestJS, REST, Socket.IO, WebRTC, Zod |
+| Databases and caching | PostgreSQL (RLS, pgvector), MongoDB, Redis, BullMQ, Prisma, Mongoose, Supabase |
+| Applied AI and LLMs | OpenAI-compatible and Gemini APIs, RAG with pgvector, PyTorch and `transformers` inference, FastAPI model services, speech-to-text and text-to-speech |
+| Infrastructure and automation | Docker and Compose, nginx, GitHub Actions, Vercel, Railway |
+
+Still learning, so not claimed as experience: LangGraph, CrewAI, MCP, Unsloth, Kubernetes, AWS.
+
+## Engineering focus
+
+- **Agents and orchestration:** LangGraph, CrewAI, and MCP servers.
+- **LLM applications:** retrieval quality, evaluation, and fine-tuning with Hugging Face and Unsloth.
+- **Distributed systems:** event-driven design, queues and idempotency.
+- **Platform:** Kubernetes and AWS, plus developer automation.
+
+> Understand the problem → Design the system → Implement → Test → Deploy → Observe → Improve
+
+## GitHub activity
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=baigcoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=baigcoder&theme=tokyonight&hide_border=true"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baigcoder/baigcoder/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution graph animated as a snake eating contribution cells" src="https://raw.githubusercontent.com/baigcoder/baigcoder/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
-<br>
+## Contact
+
+Open to collaborating on AI products, SaaS, backend engineering, developer tooling and open source. Reach me through my [portfolio](https://hassan-baigo-portfolio.vercel.app/) or an issue on any repository above.
+
+<!-- Add a verified LinkedIn URL and public email here when ready. -->
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baigcoder&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baigcoder&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=baigcoder&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🔭 Building
-
-- 🤖 AI-Powered Applications
-- 🛒 Enterprise E-Commerce Scraper
-- ⚡ Backend APIs
-- 🌐 Full Stack SaaS Products
-- ☁ Cloud Native Applications
-
-</td>
-
-<td width="50%">
-
-### 🌱 Learning
-
-- Kubernetes
-- AWS
-- MCP Servers
-- LangGraph
-- CrewAI
-- AI Agents
-- Vector Databases
-- System Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧠 Expertise
-
-| Domain | Experience |
-|---------|------------|
-| 🌐 Frontend | React.js, Next.js, TypeScript |
-| ⚙ Backend | Node.js, Express.js |
-| 🗄 Database | MongoDB, PostgreSQL, Redis |
-| 🤖 AI | LLMs, Hugging Face, AI APIs |
-| ☁ DevOps | Docker, Kubernetes, GitHub Actions |
-| 🔐 Authentication | JWT, OAuth |
-| 🚀 Deployment | Docker, Linux, CI/CD |
-| ⚡ Automation | Shell, Playwright, AI Workflows |
-
----
-
-# 📅 2026 Learning Roadmap
-
-| Technology | Progress |
-|------------|:--------:|
-| JavaScript | ██████████ 100% |
-| TypeScript | ██████████ 100% |
-| React.js | ██████████ 100% |
-| Next.js | █████████░ 90% |
-| Node.js | ██████████ 100% |
-| Express.js | ██████████ 100% |
-| MongoDB | ██████████ 100% |
-| Docker | █████████░ 90% |
-| Redis | ████████░░ 80% |
-| Kubernetes | ██████░░░░ 60% |
-| AWS | █████░░░░░ 50% |
-| LangGraph | █████░░░░░ 50% |
-| CrewAI | █████░░░░░ 50% |
-| MCP Servers | ████░░░░░░ 40% |
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build production-ready AI SaaS products
-- 🤖 Master AI Agents & Multi-Agent Systems
-- ☁ Become AWS Certified
-- ⚙ Master Kubernetes
-- 📦 Build scalable microservices
-- 🌍 Contribute to Open Source
-- 📝 Write technical blogs
-- 🎤 Share knowledge with the developer community
-- 💼 Land a Senior Full-Stack AI Engineer role
-
----
-
-# ⚡ Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,mongodb,postgres,redis,docker,kubernetes,linux,git,github,python"/>
-
-</div>
-
----
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/baigcoder/baigcoder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
----
-
-# 💼 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | Description | Tech Stack |
-|------------|-------------|------------|
-| 🛡️ **TrueVibe** | AI-powered Trust-First Social Media Platform | Next.js • Node.js • MongoDB • Redis • AI |
-| 🤖 **AI Resume Screening** | Resume ranking using NLP & Machine Learning | Python • Scikit-learn • NLP |
-| 💼 **AI Job Portal** | Intelligent hiring platform with resume analysis | MERN • AI • MongoDB |
-| 🛒 **Playwright Scraper** | High-performance distributed web scraping system | Node.js • Playwright • Redis |
-| 🌐 **Developer Portfolio** | Modern portfolio with AI integrations | Next.js • TypeScript |
-
-</div>
-
----
-
-# 🏅 Certifications & Learning Journey
-
-<div align="center">
-
-| Technology | Status |
-|------------|:------:|
-| JavaScript | ✅ Mastered |
-| TypeScript | ✅ Mastered |
-| React.js | ✅ Mastered |
-| Next.js | ✅ Advanced |
-| Node.js | ✅ Advanced |
-| Express.js | ✅ Advanced |
-| MongoDB | ✅ Advanced |
-| Docker | 🟢 Advanced |
-| Redis | 🟢 Advanced |
-| Kubernetes | 🟡 Learning |
-| AWS | 🟡 Learning |
-| LangGraph | 🟡 Learning |
-| CrewAI | 🟡 Learning |
-| MCP Servers | 🟡 Learning |
-| AI Agents | 🟢 Building |
-
-</div>
-
----
-
-# 🌍 Open Source Contributions
-
-I enjoy contributing to projects that improve developer productivity, AI engineering, backend infrastructure, and scalable web applications.
-
-Areas of interest:
-
-- 🤖 Artificial Intelligence
-- ⚡ Automation
-- 🌐 Full-Stack Development
-- ☁ Cloud Computing
-- 🔥 Backend Systems
-- 📦 Open Source
-- 🧠 LLM Applications
-
----
-
-# 📈 Development Philosophy
-
-```text
-Think ➜ Design ➜ Build ➜ Test ➜ Deploy ➜ Monitor ➜ Improve
-```
-
-I believe in writing software that is:
-
-- Clean
-- Scalable
-- Maintainable
-- Secure
-- High Performance
-- Production Ready
-
----
-
-# ⚙️ Development Environment
-
-```text
-OS          : Windows 11 + Linux
-
-Editor      : VS Code
-
-Terminal    : Windows Terminal + Bash
-
-Runtime     : Node.js
-
-Database    : MongoDB + PostgreSQL + Redis
-
-Cloud       : AWS (Learning)
-
-Containers  : Docker + Kubernetes
-
-AI          : OpenAI • Hugging Face • Ollama
-
-Version Ctrl: Git + GitHub
-```
-
----
-
-# 📊 Weekly Coding Activity
-
-```text
-JavaScript      ████████████████░   40%
-
-TypeScript      ██████████████░░░   35%
-
-Node.js         ███████████░░░░░░   15%
-
-Python          ████░░░░░░░░░░░░░    6%
-
-Shell           ██░░░░░░░░░░░░░░░    4%
-```
-
----
-
-# ❤️ Support My Work
-
-If you enjoy my projects or find them useful:
-
-⭐ Star my repositories
-
-🍴 Fork interesting projects
-
-💬 Share feedback
-
-🤝 Collaborate on open source
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/baigcoder">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# 💬 Quote I Live By
-
-> **"Great software isn't just written—it is engineered with purpose, refined through iteration, and built to solve real problems."**
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+💙;Keep+Learning+🚀;Build+Something+Amazing!+⭐" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
+<sub>Built with intent: real software, honest engineering, better systems each time.</sub>
 </div>
