@@ -1,19 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 230" width="560" height="230" role="img" aria-labelledby="t">
-  <title id="t">Wakeel: Multi-tenant AI front desk for law firms, with lawyer handoff briefs. Stack: NestJS · Next.js · Postgres · pgvector. SOURCE.</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 560 360" width="560" height="360" role="img" aria-labelledby="t">
+  <title id="t">Wakeel: AI front desk for law firms, on WhatsApp. Stack: NestJS · Next.js · Postgres · pgvector. Architecture Sketch. SOURCE.</title>
   <defs>
-    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#55D6FF"/><stop offset="1" stop-color="#8775FF"/></linearGradient>
-    <pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1E2940" stroke-width="1" opacity=".5"/></pattern>
-    <style>.sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}</style>
+    <pattern id="gd" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#2A2A2A" stroke-width="1" opacity="0.6"/></pattern>
+    <clipPath id="ci"><rect width="560" height="240"/></clipPath>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171717" stop-opacity="0"/><stop offset="1" stop-color="#171717" stop-opacity=".95"/></linearGradient>
+    <style>
+      .sans{font-family:Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+      .pulse{animation:pu 2.8s ease-in-out infinite}
+      @keyframes pu{0%,100%{opacity:.35}50%{opacity:1}}
+      .fa{animation:fa 5.5s ease-in-out infinite}
+      @keyframes fa{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+      .flow{stroke-dasharray:3 6;animation:fl 1.6s linear infinite}
+      @keyframes fl{to{stroke-dashoffset:-9}}
+      .tk{opacity:0;animation:tk 12s linear infinite}
+      .tk.a{opacity:1}
+      @keyframes tk{0%{opacity:0}2%{opacity:1}23%{opacity:1}26%{opacity:0}100%{opacity:0}}
+      .nudge{animation:nd 2.4s ease-in-out infinite}
+      @keyframes nd{0%,100%{transform:translate(0,0)}50%{transform:translate(3px,-3px)}}
+      .st{display:none}
+      .kb{transform-box:fill-box;transform-origin:center;animation:kb 18s ease-in-out infinite alternate}
+      @keyframes kb{from{transform:scale(1)}to{transform:scale(1.09)}}
+      @media (prefers-reduced-motion:reduce){.pulse,.fa,.flow,.nudge,.kb{animation:none}.tk{animation:none;opacity:0}.tk.a{opacity:1}.mv{display:none}.st{display:inline}}
+    </style>
   </defs>
-  <rect width="560" height="230" rx="14" fill="#101725"/>
-  <rect width="560" height="230" rx="14" fill="url(#g)"/>
-  <rect x="1" y="1" width="558" height="228" rx="13" fill="none" stroke="#55D6FF" stroke-opacity=".45" stroke-width="1.2"/>
-  <text x="28" y="40" class="mono" font-size="13" letter-spacing="2" fill="#55D6FF">AI · WHATSAPP · LEGAL</text>
-  <text x="28" y="86" class="sans" font-size="36" font-weight="800" letter-spacing="-.5" fill="#E8EEF8">Wakeel</text>
-  <text x="28" y="121" class="sans" font-size="18" fill="#97A6BC">Multi-tenant AI front desk for law</text>
-  <text x="28" y="146" class="sans" font-size="18" fill="#97A6BC">firms, with lawyer handoff briefs.</text>
-  <path d="M28 168H532" stroke="#1E2940"/>
-  <text x="28" y="198" class="mono" font-size="14" fill="#E8EEF8">NestJS · Next.js · Postgres · pgvector</text>
-  <text x="532" y="198" text-anchor="end" class="mono" font-size="12" letter-spacing="1.5" fill="#55D6FF">SOURCE</text>
-  <circle cx="532" cy="40" r="5" fill="#55D6FF" opacity=".6"/>
+  <rect width="560" height="360" rx="6" fill="#171717"/>
+  <g clip-path="url(#ci)">
+  <rect width="560" height="240" fill="url(#gd)"/>
+  <rect x="24" y="70" width="92" height="56" fill="#121212" stroke="#F5F3EA" stroke-width="2"/>
+<text x="70" y="103" class="mono" font-size="12.5" font-weight="800" letter-spacing="1.2" text-anchor="middle" fill="#F5F3EA">WHATSAPP</text>
+<text x="70" y="150" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">client</text>
+<text x="70" y="165" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">message</text>
+  <path d="M118 98H162" stroke="#FCD107" stroke-width="2" class="flow"/>
+  <rect x="164" y="70" width="92" height="56" fill="#121212" stroke="#F5F3EA" stroke-width="2"/>
+<text x="210" y="103" class="mono" font-size="12.5" font-weight="800" letter-spacing="1.2" text-anchor="middle" fill="#F5F3EA">API</text>
+<text x="210" y="150" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">verify, persist,</text>
+<text x="210" y="165" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">ack fast</text>
+  <path d="M258 98H302" stroke="#FCD107" stroke-width="2" class="flow"/>
+  <rect x="304" y="70" width="92" height="56" fill="#121212" stroke="#F5F3EA" stroke-width="2"/>
+<text x="350" y="103" class="mono" font-size="12.5" font-weight="800" letter-spacing="1.2" text-anchor="middle" fill="#F5F3EA">WORKER</text>
+<text x="350" y="150" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">route, retrieve,</text>
+<text x="350" y="165" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">reply</text>
+  <path d="M398 98H442" stroke="#FCD107" stroke-width="2" class="flow"/>
+  <rect x="444" y="70" width="92" height="56" fill="#FCD107" stroke="#FCD107" stroke-width="2"/>
+<text x="490" y="103" class="mono" font-size="12.5" font-weight="800" letter-spacing="1.2" text-anchor="middle" fill="#0A0A0A">LAWYER</text>
+<text x="490" y="150" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">structured</text>
+<text x="490" y="165" class="mono" font-size="11" font-weight="500" text-anchor="middle" fill="#9A9A94">handoff brief</text>
+  <g class="mv"><rect x="-6" y="-6" width="12" height="12" fill="#00FF94"><animateMotion dur="4s" repeatCount="indefinite" path="M70 98H490"/></rect></g>
+  <rect x="24" y="198" width="98.2" height="24" fill="none" stroke="#FCD107" stroke-width="1.5"/><text x="73.1171875" y="214" class="mono" font-size="11" font-weight="700" letter-spacing="1.2" text-anchor="middle" textLength="78.2" lengthAdjust="spacingAndGlyphs" fill="#FCD107">TENANT RLS</text>
+  <rect x="132.234375" y="198" width="153.0" height="24" fill="none" stroke="#FCD107" stroke-width="1.5"/><text x="208.7265625" y="214" class="mono" font-size="11" font-weight="700" letter-spacing="1.2" text-anchor="middle" textLength="133.0" lengthAdjust="spacingAndGlyphs" fill="#FCD107">IDEMPOTENT QUEUES</text>
+  <rect x="295.21875" y="198" width="137.3" height="24" fill="none" stroke="#FCD107" stroke-width="1.5"/><text x="363.890625" y="214" class="mono" font-size="11" font-weight="700" letter-spacing="1.2" text-anchor="middle" textLength="117.3" lengthAdjust="spacingAndGlyphs" fill="#FCD107">MODEL FALLBACKS</text>
+  </g>
+  
+  <rect x="16" y="16" width="154.9" height="26" fill="#FCD107"/>
+  <text x="28" y="34" class="mono" font-size="12" font-weight="800" letter-spacing="1.5" textLength="130.9" lengthAdjust="spacingAndGlyphs" fill="#0A0A0A">02 · AI · LEGAL</text>
+  <rect x="381.1" y="16" width="162.9" height="26" fill="#0A0A0A" fill-opacity=".78"/>
+  <text x="534" y="33" class="mono" font-size="10.5" font-weight="700" letter-spacing="1.2" text-anchor="end" textLength="142.9" lengthAdjust="spacingAndGlyphs" fill="#F5F3EA">ARCHITECTURE SKETCH</text>
+  <rect x="1" y="1" width="558" height="358" rx="5" fill="none" stroke="#2A2A2A" stroke-width="2"/>
+  <path d="M0 240H560" stroke="#2A2A2A" stroke-width="2"/>
+  <text x="24" y="288" class="sans" font-size="36" font-weight="900" letter-spacing="-0.5" textLength="130.5" lengthAdjust="spacingAndGlyphs" fill="#F5F3EA">Wakeel</text>
+  <g class="nudge"><path d="M514 288L536 266M522 264H536V278" fill="none" stroke="#FCD107" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text x="24" y="316" class="sans" font-size="16" font-weight="500" fill="#9A9A94">AI front desk for law firms, on WhatsApp.</text>
+  <text x="24" y="346" class="mono" font-size="13" font-weight="700" fill="#F5F3EA">NestJS · Next.js · Postgres · pgvector</text>
+  <text x="536" y="346" class="mono" font-size="12" font-weight="800" letter-spacing="1.5" text-anchor="end" fill="#FCD107">SOURCE</text>
 </svg>

@@ -1,30 +1,61 @@
 <div align="center">
 
-<h1><img src="assets/profile-hero.svg" alt="Muhammad Hassan Baig, Full-Stack AI Engineer, at the centre of a network of technologies he uses: TypeScript, React, Node.js, PostgreSQL, Redis, LLM and RAG, and Docker." width="100%"></h1>
+<h1>
+<picture>
+  <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/baigcoder/baigcoder/main/assets/profile-hero-mobile.svg">
+  <img src="assets/profile-hero.svg" alt="Muhammad Hassan Baig, Full-Stack AI Engineer, pictured on a yellow disc surrounded by tags for the technologies he uses: TypeScript, React, Redis, Node.js, PostgreSQL, LLM and RAG, and Docker." width="100%">
+</picture>
+</h1>
 
-**Muhammad Hassan Baig** · Full-Stack AI Engineer
+**Muhammad Hassan Baig** · Full-Stack AI Engineer · Lahore, Pakistan
 
 Engineering AI-powered products, reliable backend systems and intelligent developer tools.
 
-[Portfolio](https://hassan-baigo-portfolio.vercel.app/) · [Best work](#best-work) · [TrueVibe case study](#truevibe-a-case-study) · [Repositories](https://github.com/baigcoder?tab=repositories)
+<a href="https://github.com/baigcoder"><img src="assets/connect-github.svg" width="160" alt="GitHub: @baigcoder"></a>
+<a href="https://www.linkedin.com/in/hassan-baig-672778111/"><img src="assets/connect-linkedin.svg" width="160" alt="LinkedIn: Hassan Baig"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/"><img src="assets/connect-portfolio.svg" width="160" alt="Portfolio website"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/blogs"><img src="assets/connect-blog.svg" width="160" alt="Blog on my portfolio site"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/api/cv"><img src="assets/connect-cv.svg" width="160" alt="Curriculum vitae"></a>
 
-[![TrueVibe last commit](https://img.shields.io/github/last-commit/baigcoder/TrueVibe?label=TrueVibe%20last%20commit&style=flat-square&color=55D6FF&labelColor=101725)](https://github.com/baigcoder/TrueVibe/commits)
-[![Wakeel last commit](https://img.shields.io/github/last-commit/baigcoder/lawyer-agency?label=Wakeel%20last%20commit&style=flat-square&color=8775FF&labelColor=101725)](https://github.com/baigcoder/lawyer-agency/commits)
-[![Followers](https://img.shields.io/github/followers/baigcoder?label=followers&style=flat-square&color=55D6FF&labelColor=101725)](https://github.com/baigcoder?tab=followers)
+[Best work](#best-work) · [TrueVibe case study](#truevibe-a-case-study) · [How I build](#how-i-build) · [Live stats](#github-live) · [Contact](#contact)
+
+[![Wakeel last commit](https://img.shields.io/github/last-commit/baigcoder/lawyer-agency?label=Wakeel%20last%20commit&style=flat-square&color=FCD107&labelColor=0A0A0A)](https://github.com/baigcoder/lawyer-agency/commits)
+[![Grizzly last commit](https://img.shields.io/github/last-commit/baigcoder/grizzly?label=Grizzly%20last%20commit&style=flat-square&color=FCD107&labelColor=0A0A0A)](https://github.com/baigcoder/grizzly/commits)
+[![Brewns last commit](https://img.shields.io/github/last-commit/baigcoder/brewns?label=Brewns%20last%20commit&style=flat-square&color=FCD107&labelColor=0A0A0A)](https://github.com/baigcoder/brewns/commits)
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 </div>
 
 I work across the stack: React and Next.js interfaces, Node.js and TypeScript backends, and the data, queue and AI layers behind them. What interests me most is the unglamorous engineering that makes AI features trustworthy: validated model output, idempotent queues, tenant isolation, and graceful degradation when a provider fails.
 
+```ts
+const hassan = {
+  role: "Full-Stack AI Engineer",
+  based: "Lahore, Pakistan",
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "PostgreSQL", "MongoDB", "Redis"],
+  recently: ["Wakeel", "Grizzly", "Brewns", "Rivulet"],
+  exploring: ["LangGraph", "CrewAI", "MCP", "Kubernetes", "AWS"],
+  principles: ["validate model output", "idempotent by default", "degrade gracefully"],
+  openTo: ["AI products", "SaaS", "backend engineering", "developer tooling", "open source"],
+} as const;
+```
+
+## What I build
+
+<div align="center">
+<img src="assets/capabilities.svg" width="720" alt="What I build. AI products: media-authenticity scoring, resume analysis and WhatsApp intake agents (TrueVibe, HIRE.OS, Wakeel). Backend systems: queues, idempotent webhooks and row-level security. Real-time: chat, calls, presence and live dashboards. 3D web: product experiences in the browser with three.js and GSAP (Brewns, Grizzly).">
+</div>
+
 ## Best work
 
 <div align="center">
-<a href="https://github.com/baigcoder/TrueVibe"><img src="assets/showcase-truevibe.svg" alt="TrueVibe: social platform that scores media authenticity with a Python AI service. React, Express, MongoDB, FastAPI. Demo and source." width="400"></a>
-<a href="https://github.com/baigcoder/lawyer-agency"><img src="assets/showcase-wakeel.svg" alt="Wakeel: multi-tenant AI front desk for law firms with lawyer handoff briefs. NestJS, Next.js, Postgres, pgvector. Source." width="400"></a>
-<a href="https://github.com/baigcoder/hire-os"><img src="assets/showcase-hireos.svg" alt="HIRE.OS: resume analysis, AI assessments and WebRTC interviews in one platform. React, Node, MongoDB, Supabase. Demo and source." width="400"></a>
-<a href="https://github.com/baigcoder/rivulet"><img src="assets/showcase-rivulet.svg" alt="Rivulet: media library and BitTorrent player for desktop and Android TV. TypeScript, embedded mpv. Site and source." width="400"></a>
-<a href="https://github.com/baigcoder/brewns"><img src="assets/showcase-brewns.svg" alt="Brewns: coffee house site with three.js product views and receipt ordering. Next.js 16, three.js. Site and source." width="400"></a>
-<a href="https://github.com/baigcoder/grizzly"><img src="assets/showcase-grizzly.svg" alt="Grizzly: real-time 3D product site where you pick up, turn and crack open the can. React, Three.js, GSAP. Source." width="400"></a>
+<a href="https://github.com/baigcoder/TrueVibe"><img src="assets/showcase-truevibe.svg" alt="TrueVibe, flagship: trust scoring for social media, powered by a Python AI service. React, Express, MongoDB, FastAPI. Architecture sketch. Demo and source." width="400"></a>
+<a href="https://github.com/baigcoder/lawyer-agency"><img src="assets/showcase-wakeel.svg" alt="Wakeel: AI front desk for law firms, on WhatsApp. NestJS, Next.js, Postgres, pgvector. Architecture sketch. Source." width="400"></a>
+<a href="https://github.com/baigcoder/hire-os"><img src="assets/showcase-hireos.svg" alt="HIRE.OS: resume AI, assessments and WebRTC interviews. React, Node, MongoDB, Supabase. Recruiter pipeline sketch. Demo and source." width="400"></a>
+<a href="https://github.com/baigcoder/rivulet"><img src="assets/showcase-rivulet.svg" alt="Rivulet: media library and torrent player for desktop and TV. TypeScript, embedded mpv. Screenshot from the repository. Site and source." width="400"></a>
+<a href="https://github.com/baigcoder/brewns"><img src="assets/showcase-brewns.svg" alt="Brewns: coffee house site with 3D views and receipt-style ordering. Next.js 16, three.js. Screenshot from the repository. Site and source." width="400"></a>
+<a href="https://github.com/baigcoder/grizzly"><img src="assets/showcase-grizzly.svg" alt="Grizzly: real-time 3D product site for an energy-drink brand. React, Three.js, GSAP. Screenshot from the repository. Source." width="400"></a>
 </div>
 
 | Project | Source | Live link |
@@ -36,7 +67,7 @@ I work across the stack: React and Next.js interfaces, Node.js and TypeScript ba
 | Brewns | [baigcoder/brewns](https://github.com/baigcoder/brewns) | [brewns-chi.vercel.app](https://brewns-chi.vercel.app) |
 | Grizzly | [baigcoder/grizzly](https://github.com/baigcoder/grizzly) | none listed |
 
-Live links come from each repository's metadata or README. I haven't load-tested or benchmarked any of these.
+Cards marked "screenshot" use images from each repository. Cards marked "sketch" are diagrams I drew from the project's code or README, not screenshots. Live links come from repository metadata or READMEs, and I haven't load-tested or benchmarked any of these.
 
 ### More builds
 
@@ -46,6 +77,10 @@ Live links come from each repository's metadata or README. I haven't load-tested
 - **[Shopping Expense Tracker](https://github.com/baigcoder/shopping-expense-tracker):** expense tracker in TypeScript. [Live](https://shopping-expense-trackerfrontend.vercel.app)
 - **[Humza Portfolio](https://github.com/baigcoder/humza-portfolio):** corporate financial advisory site. [Live](https://humza-portfolio-xi.vercel.app)
 - **[Pakistan Luxury Dresscode](https://github.com/baigcoder/pakistan-luxury-dresscode):** TypeScript web app. [Live](https://pakistan-luxury-dresscode.vercel.app)
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="">
+</div>
 
 ## TrueVibe: a case study
 
@@ -57,7 +92,7 @@ Live links come from each repository's metadata or README. I haven't load-tested
 
 **Approach.** Uploaded media goes to a separate Python service that produces a trust verdict, so the interface can show authenticity signals instead of leaving users to guess. Real-time features run on the Node API.
 
-**Engineering contribution.** On the `dev` branch, an evidence-fusion step only supports a "fake" verdict when independent forensic signals (FFT, eye, colour and noise, edge, mouth, temporal) corroborate the primary model's score. The aim is that no single over-confident model decides alone. That module is **not on `main`**.
+**Engineering contribution.** On the repository's default `dev` branch, an evidence-fusion step only supports a "fake" verdict when independent forensic signals (FFT, eye, colour and noise, edge, mouth, temporal) corroborate the primary model's score. The aim is that no single over-confident model decides alone. That module has not been merged to `main`.
 
 **Stack, verified in the repository.**
 - *Client:* React 19, Vite, TypeScript, TanStack Router and Query, Tailwind CSS, Framer Motion.
@@ -92,17 +127,33 @@ Live links come from each repository's metadata or README. I haven't load-tested
 
 ## Technical stack
 
-Used in my projects:
+<div align="center">
+<img src="assets/stack.svg" width="600" alt="Technology stack. Languages and frontend: TypeScript, JavaScript, Python, SQL, React, Next.js, Vite, Tailwind, TanStack, Framer Motion, three.js, GSAP. Backend and APIs: Node.js, Express, NestJS, REST, Socket.IO, WebRTC, Zod. Data and caching: PostgreSQL, pgvector, MongoDB, Redis, BullMQ, Prisma, Supabase. Applied AI: LLM APIs, RAG, PyTorch, transformers, FastAPI, speech-to-text and text-to-speech. Infrastructure and automation: Docker, nginx, GitHub Actions, Vercel, Railway, Linux. Exploring, not claimed as experience: LangGraph, CrewAI, MCP, Unsloth, Kubernetes, AWS.">
+</div>
 
-| Area | Tools |
+<details>
+<summary>Text version of the stack, and my dev setup</summary>
+
+| Area | Used in my projects |
 | --- | --- |
 | Languages and frontend | TypeScript, JavaScript, Python, SQL; React, Next.js, Vite, Tailwind CSS, TanStack Query and Router, Framer Motion, three.js, GSAP |
 | Backend and APIs | Node.js, Express, NestJS, REST, Socket.IO, WebRTC, Zod |
 | Databases and caching | PostgreSQL (RLS, pgvector), MongoDB, Redis, BullMQ, Prisma, Mongoose, Supabase |
 | Applied AI and LLMs | OpenAI-compatible and Gemini APIs, RAG with pgvector, PyTorch and `transformers` inference, FastAPI model services, speech-to-text and text-to-speech |
-| Infrastructure and automation | Docker and Compose, nginx, GitHub Actions, Vercel, Railway |
+| Infrastructure and automation | Docker and Compose, nginx, GitHub Actions, Vercel, Railway, Linux |
 
 Still learning, so not claimed as experience: LangGraph, CrewAI, MCP, Unsloth, Kubernetes, AWS.
+
+| Dev setup | |
+| --- | --- |
+| OS | Windows 11 and Linux |
+| Editor and terminal | VS Code; Windows Terminal with Bash |
+| Runtime and data | Node.js; MongoDB, PostgreSQL, Redis |
+| Containers | Docker |
+| AI tooling | OpenAI APIs, Hugging Face, Ollama |
+| Version control | Git and GitHub |
+
+</details>
 
 ## Engineering focus
 
@@ -111,9 +162,30 @@ Still learning, so not claimed as experience: LangGraph, CrewAI, MCP, Unsloth, K
 - **Distributed systems:** event-driven design, queues and idempotency.
 - **Platform:** Kubernetes and AWS, plus developer automation.
 
-> Understand the problem → Design the system → Implement → Test → Deploy → Observe → Improve
+## How I build
 
-## GitHub activity
+<div align="center">
+<img src="assets/process.svg" width="560" alt="How I build, as a loop: Understand the problem, Design the system, Implement, Test, Deploy, Observe, Improve, then repeat.">
+</div>
+
+- Model calls are untrusted: validate their output, log them, and have a fallback.
+- Prefer boring, inspectable infrastructure (queues, idempotency keys, row-level security) over clever shortcuts.
+- Write down decisions and the alternatives I rejected.
+
+## GitHub, live
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baigcoder&bg_color=0A0A0A&color=F5F3EA&line=FCD107&point=F5F3EA&area=true&area_color=FCD107&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="Contribution activity graph for baigcoder over the last 31 days, drawn live from GitHub.">
+</div>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=baigcoder&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FCD107&icon_color=FCD107&text_color=F5F3EA&ring_color=FCD107&include_all_commits=true&rank_icon=github&custom_title=GitHub%20stats" width="410" alt="GitHub stats card for baigcoder: stars, commits, pull requests, issues and contributions.">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baigcoder&layout=compact&langs_count=8&hide=html,css,scss&hide_border=true&bg_color=0A0A0A&title_color=FCD107&text_color=F5F3EA&custom_title=Most%20used%20languages" width="300" alt="Most used languages across baigcoder's public repositories, by bytes of code.">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=baigcoder&hide_border=true&background=0A0A0A&ring=FCD107&fire=FCD107&currStreakNum=F5F3EA&currStreakLabel=FCD107&sideNums=F5F3EA&sideLabels=9A9A94&dates=9A9A94&stroke=2A2A2A" width="440" alt="Contribution streak for baigcoder: current streak, longest streak and total contributions.">
+</p>
 
 <div align="center">
 <picture>
@@ -122,12 +194,20 @@ Still learning, so not claimed as experience: LangGraph, CrewAI, MCP, Unsloth, K
 </picture>
 </div>
 
+<sub>The first four cards are rendered live by third-party services (activity graph, github-readme-stats, streak stats) from public GitHub data, so they can occasionally rate-limit or lag. Language share is by bytes of code, not skill. The snake is generated daily by a workflow in this repository.</sub>
+
 ## Contact
 
-Open to collaborating on AI products, SaaS, backend engineering, developer tooling and open source. Reach me through my [portfolio](https://hassan-baigo-portfolio.vercel.app/) or an issue on any repository above.
-
-<!-- Add a verified LinkedIn URL and public email here when ready. -->
-
 <div align="center">
-<sub>Built with intent: real software, honest engineering, better systems each time.</sub>
+
+<img src="assets/footer.svg" width="100%" alt="Let's build. Open to collaborate on AI products, SaaS, backend engineering and open source.">
+
+<a href="https://github.com/baigcoder"><img src="assets/connect-github.svg" width="160" alt="GitHub: @baigcoder"></a>
+<a href="https://www.linkedin.com/in/hassan-baig-672778111/"><img src="assets/connect-linkedin.svg" width="160" alt="LinkedIn: Hassan Baig"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/"><img src="assets/connect-portfolio.svg" width="160" alt="Portfolio website"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/blogs"><img src="assets/connect-blog.svg" width="160" alt="Blog on my portfolio site"></a>
+<a href="https://hassan-baigo-portfolio.vercel.app/api/cv"><img src="assets/connect-cv.svg" width="160" alt="Curriculum vitae"></a>
+
+[GitHub](https://github.com/baigcoder) · [LinkedIn](https://www.linkedin.com/in/hassan-baig-672778111/) · [Portfolio](https://hassan-baigo-portfolio.vercel.app/) · [Blog](https://hassan-baigo-portfolio.vercel.app/blogs) · [CV](https://hassan-baigo-portfolio.vercel.app/api/cv)
+
 </div>
